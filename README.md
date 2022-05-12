@@ -1,7 +1,7 @@
 Olá 👋 eu sou o Henrique
 =========================
 
-Desenvolvedor web front end
+Desenvolvedor front end
 ---------------------------
 
 * 🌍  I'm based in São Paulo - Brasil
