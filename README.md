@@ -23,8 +23,8 @@ I've been studying front end for five months. Currently, I'm learning React, Red
 
 <p align="left"> <a href="https://www.linkedin.com/in/henriquemoreirain/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<span>
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquemoreiraa&show_icons=true&&theme=dracula)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemoreiraa&layout=compact&theme=dracula)
-</span>
+
 
