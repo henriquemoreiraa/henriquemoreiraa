@@ -7,7 +7,7 @@ Front end Developer
 I've been studying front end for five months. Currently, I'm learning React, Typescript and Next JS. Programming is really hard sometimes, but it's also really fun. I'd say programming is my passion for sure!
 
 * 🌍  I'm based in São Paulo - Brazil
-* 🧠  I'm learning React, Redux and Typescript
+* 🧠  I'm learning React, Typescript and Next JS
 
 ### Skills
 
