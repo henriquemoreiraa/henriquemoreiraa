@@ -1,10 +1,11 @@
-Hi 👋 My name is Henrique
+Hey 👋 I'm Henrique
 =========================
 
-Front end Developer
+Web Developer
 -------------------
 
-I've been studying front end for five months. Currently, I'm learning React, Typescript and Next JS. Programming is really hard sometimes, but it's also really fun. I'd say programming is my passion for sure!
+I've been studying web development for six months. Currently, I'm learning React JS, Typescript and Next JS.
+I love making things and getting them done. I'm excited to share some very cool stuff with you soon!
 
 * 🌍  I'm based in São Paulo - Brazil
 * 🧠  I'm learning React, Typescript and Next JS
