@@ -1,7 +1,7 @@
 Hey 👋 I'm Henrique
 =========================
 
-Web Developer
+Front End Developer
 -------------------
 
 I've been studying web development for a while. Currently, I'm learning React JS, Typescript and Next JS.
