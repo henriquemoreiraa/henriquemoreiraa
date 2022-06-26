@@ -9,6 +9,7 @@ I love making things and getting them done. I'm excited to share some very cool 
 
 * 🌍  I'm based in São Paulo - Brazil
 * 🧠  I'm learning Node JS and SQL
+* 🖥️  See my portfolio <a href="https://portfoliohm.vercel.app" target="_blank">HERE</a>
 
 ### Skills
 
