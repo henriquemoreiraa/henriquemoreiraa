@@ -8,7 +8,7 @@ I've been studying web development for a while. Currently, I'm learning Node JS 
 I love making things and getting them done. I'm excited to share some very cool stuff with you soon!
 
 * 🌍  I'm based in São Paulo - Brazil
-* 🧠  I'm learning Node JS and SQL
+* 🧠  I'm learning Node JS, Express and MongoDB
 * 🖥️  See my portfolio <a href="https://portfoliohm.vercel.app" target="_blank">HERE</a>
 
 ### Skills
