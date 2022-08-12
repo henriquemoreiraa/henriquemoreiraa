@@ -33,4 +33,3 @@ I've been studying web development for a 1 year. Currently, I'm learning Prisma,
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemoreiraa&layout=compact&theme=github_dark )
 
-[![](https://visitcount.itsvg.in/api?id=rick&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
