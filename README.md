@@ -9,6 +9,7 @@ I've been studying web development for a 1 year. Currently, I'm learning Prisma,
 * 🌍  I'm based in São Paulo - Brazil
 * 🖥️  See my portfolio at [Personal Portfolio](http://portfoliohm.vercel.app)
 * ✉️  You can contact me at [riqimoreiraa@gmail.com](mailto:riqimoreiraa@gmail.com)
+* 🚀  I'm currently working on [Online game store](http://github.com/henriquemoreiraa/online-game-store)
 * 🧠  I'm learning Prisma, PostgreSQL, GraphQL and Tailwind
 
 ### Skills
