@@ -7,7 +7,7 @@ Full Stack Developer
 I've been studying web development for over a year. Currently, I'm learning React Native. I love making things and getting them done. I'm excited to share some very cool stuff with you soon!
 
 * 🌍  I'm based in São Paulo - Brazil
-* 🖥️  See my portfolio at [Personal Portfolio](http://portfoliohm.vercel.app)
+* 🖥️  See my portfolio at [Personal Portfolio](https://hmportfoliov2.vercel.app)
 * ✉️  You can contact me at [riqimoreiraa@gmail.com](mailto:riqimoreiraa@gmail.com)
 * 🧠  I'm currently learning React Native
 
