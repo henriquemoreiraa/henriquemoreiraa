@@ -9,7 +9,7 @@ I've been studying web development for over a year. Currently, I'm learning Reac
 * 🌍  I'm based in São Paulo - Brazil
 * 🖥️  See my portfolio at [Personal Portfolio](http://portfoliohm.vercel.app)
 * ✉️  You can contact me at [riqimoreiraa@gmail.com](mailto:riqimoreiraa@gmail.com)
-* 🧠  I'm React Native
+* 🧠  I'm currently learning React Native
 
 ### Skills
 
