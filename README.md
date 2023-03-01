@@ -1,15 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Henrique
 ================================================================================================================================
 
-Full Stack Developer
+Frontend Engineer
 --------------------
 
-I've been studying web development for over a year. Currently, I'm learning Go. I love making things and getting them done. I'm excited to share some very cool stuff with you soon!
+I am a constant learner and passionate about programming. I have been in the software development field for two years. I am passionate about open source projects, and a significant part of my experience in software development comes from my contribution to these projects. I believe that this is one of the best ways to share knowledge and collaborate with the developer community.
 
 * 🌍  I'm based in São Paulo - Brazil
 * 🖥️  See my portfolio at [Personal Portfolio](https://hmportfoliov2.vercel.app)
 * ✉️  You can contact me at [riqimoreiraa@gmail.com](mailto:riqimoreiraa@gmail.com)
-* 🧠  I'm currently learning Go
 
 ### Skills
 
@@ -27,11 +26,6 @@ I've been studying web development for over a year. Currently, I'm learning Go. 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.linkedin.com/in/henriquemoreirain" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemoreiraa&layout=compact&theme=github_dark )
 
