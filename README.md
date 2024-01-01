@@ -1,5 +1,5 @@
 # Hi, I'm Henrique!
-### Frontend Engineer
+### Frontend Developer
 
 
 ⤷ Currently working on frontend, but looking forward to work with android development.
