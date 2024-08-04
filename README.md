@@ -1,7 +1,7 @@
 # Hi, I'm Henrique!
 ### Software Developer - with 2 years of experience
 
-⤷ Currently open for an opportunity to work in web development.
+⤷ Currently open for an opportunity to work in web development
 <br/>
 <br/>
 ⤷ You can see my portfolio <a href="https://henriquemoreira.vercel.app" target="_blank">here</a>
